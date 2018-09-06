@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "Hello world app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGizze/nodejs-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGizze/nodejs-helloworld/issues"
+  },
+  "homepage": "https://github.com/TheGizze/nodejs-helloworld#readme"
+}
